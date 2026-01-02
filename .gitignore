@@ -1,0 +1,9 @@
+cuda-nvcc-12.2.91-0.tar.bz2
+deepspeed-0.17.6+torch2.5.1cu121-cp310-cp310-manylinux_2_28_x86_64.whl
+flash_attn-2.7.4.post1+cu12torch2.5cxx11abiFALSE-cp310-cp310-linux_x86_64.whl
+*.jpg
+*.png
+.idea/
+apex/
+Qwen2.5-VL-7B/
+src/open-r1-multimodal/output/
